@@ -1,4 +1,3 @@
-
-Welcome to my profile.
-
-Here you will fine a little bit about me and my projects of interest.
+# Hello, My name is Benjamin. 
+## Economics grad adventuring myself in the machine learning word and AI.
+## You will be able to see here my my projects.
